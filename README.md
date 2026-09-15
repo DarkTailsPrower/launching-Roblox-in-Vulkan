@@ -8,6 +8,7 @@ win+r write %localappdata%\Roblox\ to vefiry is working vulkan or not
   "FFlagDebugGraphicsPreferVulkan": "true"
 }
 
+```
 2026-09-15T20:57:27.050Z,2.050643,37ac,6 [FLog::Graphics] Vulkan: Using extension: VK_KHR_surface
 2026-09-15T20:57:27.050Z,2.050643,37ac,6 [FLog::Graphics] Vulkan: Using extension: VK_KHR_get_physical_device_properties2
 2026-09-15T20:57:27.050Z,2.050643,37ac,6 [FLog::Graphics] Vulkan: Using extension: VK_KHR_win32_surface
@@ -25,3 +26,4 @@ win+r write %localappdata%\Roblox\ to vefiry is working vulkan or not
 
 2026-09-15T20:57:27.749Z,2.749654,37ac,6 [FLog::Graphics] Vulkan: resizing window framebuffer to 1920x1017
 2026-09-15T20:57:27.826Z,2.826628,37ac,6 [FLog::Graphics] Vulkan: swapchain images 2 present mode 0 format 44 size 1920x1017
+```
