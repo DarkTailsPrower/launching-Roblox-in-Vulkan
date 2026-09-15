@@ -2,7 +2,7 @@
 launching Roblox in Vulkan Copy ClientSettings Folder on Roblox Directory
 
 
-win+r write %localappdata%\Roblox\ to vefiry is working vulkan or not
+win+r write %localappdata%\Roblox\logs to vefiry is working vulkan or not
 
 2026-09-15T20:57:25.832Z,0.832607,3670,6 [FLog::Output] LoadClientSettingsFromLocal: "{
   "FFlagDebugGraphicsPreferVulkan": "true"
